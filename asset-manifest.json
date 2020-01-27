@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/captainAldi/reactjs_crash_course.git/static/css/main.153622f2.chunk.css",
+    "main.js": "/captainAldi/reactjs_crash_course.git/static/js/main.6454b14b.chunk.js",
+    "main.js.map": "/captainAldi/reactjs_crash_course.git/static/js/main.6454b14b.chunk.js.map",
+    "runtime-main.js": "/captainAldi/reactjs_crash_course.git/static/js/runtime-main.0b87011f.js",
+    "runtime-main.js.map": "/captainAldi/reactjs_crash_course.git/static/js/runtime-main.0b87011f.js.map",
+    "static/js/2.ae6517d7.chunk.js": "/captainAldi/reactjs_crash_course.git/static/js/2.ae6517d7.chunk.js",
+    "static/js/2.ae6517d7.chunk.js.map": "/captainAldi/reactjs_crash_course.git/static/js/2.ae6517d7.chunk.js.map",
+    "index.html": "/captainAldi/reactjs_crash_course.git/index.html",
+    "precache-manifest.19be07c6e9e805a42358e507f6675ebb.js": "/captainAldi/reactjs_crash_course.git/precache-manifest.19be07c6e9e805a42358e507f6675ebb.js",
+    "service-worker.js": "/captainAldi/reactjs_crash_course.git/service-worker.js",
+    "static/css/main.153622f2.chunk.css.map": "/captainAldi/reactjs_crash_course.git/static/css/main.153622f2.chunk.css.map",
+    "static/js/2.ae6517d7.chunk.js.LICENSE": "/captainAldi/reactjs_crash_course.git/static/js/2.ae6517d7.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0b87011f.js",
+    "static/js/2.ae6517d7.chunk.js",
+    "static/css/main.153622f2.chunk.css",
+    "static/js/main.6454b14b.chunk.js"
+  ]
+}
