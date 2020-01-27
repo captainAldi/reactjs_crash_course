@@ -4,6 +4,7 @@ import { BrowserRouter as Router, Route } from 'react-router-dom'
 import Todos from './components/Todos'
 import Header from './components/layout/Header'
 import AddTodo from './components/AddTodo'
+import Footer from './components/layout/Footer'
 import About from './components/pages/About'
 //import uuid from 'uuid'
 import axios from 'axios'
@@ -83,6 +84,8 @@ delTodo = (id) => {
 							path="/about"
 							component={About}
 						/>
+
+						<Footer/>
     </div>
 				</Router>
   );
