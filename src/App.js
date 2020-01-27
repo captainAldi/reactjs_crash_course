@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import './App.css';
-import { BrowserRouter as Router, Route } from 'react-router-dom'
+import { HashRouter, Route } from 'react-router-dom'
 import Todos from './components/Todos'
 import Header from './components/layout/Header'
 import AddTodo from './components/AddTodo'
@@ -65,7 +65,7 @@ delTodo = (id) => {
 
  render() {
 		return (
-    <Router>
+    <HashRouter basename="/">
 					<div className="App">
 						<Header />
 
@@ -87,7 +87,7 @@ delTodo = (id) => {
 
 						<Footer/>
     </div>
-				</Router>
+				</HashRouter>
   );
 	}
 }
